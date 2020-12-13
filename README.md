@@ -3,4 +3,6 @@ Performing analysis on Kickstarter data to uncover trends
 
 [Kickstarter Data Analysis](data-1-1-3-StarterBook_cb.xlsx)
 
-![image](images/Outcomes based on Launch Date Chart.png)
+![Outcomes based on Launch Date](images/Outcomes based on Launch Date Chart.png)
+
+![Parent Category Outcomes](images/Parent Category Outcomes Chart.png)
