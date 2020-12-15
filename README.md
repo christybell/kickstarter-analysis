@@ -32,7 +32,11 @@ Full analysis and workbook here: [Kickstarter Data Analysis](data-1-1-3-StarterB
 
 ### Analysis of Outcomes Based on Launch Date
 
+<img src="resources/Theater_Outcomes_vs_Launch.png">
+
 ### Analysis of Outcomes Based on Goals
+
+<img src="resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 
