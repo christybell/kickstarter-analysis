@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different Kickstarter campaigns fared in relation to their launch dates and their funding goals. 
 
 ### Purpose
-Analyze the data and provide visualizations to give Louise clear insights into the campaign trends and find out if their outcomes were affected by their launch date and/or fundraising goals.
+Analyze the Kickstarter data and provide visualizations to give Louise clear insights into the campaign trends and find out if their outcomes were affected by their launch date and/or fundraising goals.
 
 ## Analysis and Challenges
 The full analysis and workbook can be found here: [Kickstarter Analysis](Kickstarter_Challenge.xlsx)
