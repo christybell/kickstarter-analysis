@@ -27,6 +27,8 @@ Next, I created a line chart to visualize the percentage of successful, failed, 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+May is the best month to launch a theater Kickstarter campaign.
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
