@@ -17,27 +17,29 @@ First, I filtered the data solely for the theater parent category and created a 
 
 ### Analysis of Outcomes Based on Goals
 
-Next, I created a line chart to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount, as shown below.
+Next, I created a line chart to visualize the percentage of successful, failed, and canceled campaigns in the plays subcategory that was based on the funding goal amount, as shown below.
 
 <img src="resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 
+I encountered a challenge in GitHub adding my chart images to my README file and written report using simple syntax. I watched a youtube tutorial to troubleshoot. I learned that I could also use html syntax to add my images, so I resolved my challenge that way.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-May is the best month to launch a theater Kickstarter campaign.
+1. May has the highest number of successfully launched theater Kickstarter campaigns, so it appears to be the best month to launch a fundraising campaign.
+2. December seems to be the worst month for launching a theater Kickstarter campaign, with virtually the same amount of failed and successful campaigns launched in that month.
 
 - What can you conclude about the Outcomes based on Goals?
 
+1. The data shows the success rate of a Kickstarter campaign in the plays subcategory is greatest when the fundraising goal is 15,000 or less. 
+
 - What are some limitations of this dataset?
+
+1. There isn't a large enough sample size within the play category where goals were 25,000 or more. The 'Outcomes based on Goals' line graph demonstrates this fact. It shows the proportion of successful and failed campaigns at this level go up and down inconsistently and are not a reliable measure.
 
 - What are some other possible tables and/or graphs that we could create?
 
-### Recommendations for Louise:
-
-* Since a higher number of successful kickstarter campaigns were launched in May (see Outcomes based on Launch Date chart above), I recommend Louise launch her kickstarter in May.
-
-* Even though the Theater subcategory has a high proportion of successful kickstarter campaigns compared to other subcategories (see Parent Category Outcomes chart above), which is great news for Louise, it's clear from the data that she should try to get her theater project produced for less than her $12,000 goal, if possible. She should try to keep her fundraising goal to around $5,000-$5,500 for a greater chance for success.  
 
