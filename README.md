@@ -23,7 +23,7 @@ Next, I created a line chart to visualize the percentage of successful, failed, 
 
 ### Challenges and Difficulties Encountered
 
-I encountered a challenge in GitHub adding my chart images to my README file and written report using simple syntax. I watched a youtube tutorial to troubleshoot. I learned that I could also use html syntax to add my images, so I resolved my challenge that way.
+I encountered a challenge in GitHub adding my chart images to my README file using simple syntax. I watched a youtube tutorial to troubleshoot. I learned that I could also use html syntax to add my images to a README file, which resolved my issue.
 
 ## Results
 
@@ -45,8 +45,8 @@ I encountered a challenge in GitHub adding my chart images to my README file and
 
 - What are some other possible tables and/or graphs that we could create?
 
-To continue analyzing the data for Outcomes based on Launch Date, instead of looking at the shear numbers of theater campaigns launched each month, as we've already done, it might be more meaningful to look at the relative percentage of failed vs. successful campaigns by month.
+  To continue analyzing the data for Outcomes based on Launch Date, instead of looking at the shear numbers of theater campaigns launched each month, as we've already done, it might be more meaningful to look at the relative percentage of failed vs. successful campaigns by month.
 
-To investigate the fundraising potential of each month further, it might be interesting to create a graph which shows successful campaigns by month and the average of their Percentage Funded calculation.
+  To investigate the fundraising potential of each month further, it might be interesting to create a graph which shows successful campaigns by month and the average of their Percentage Funded calculation.
 
 
