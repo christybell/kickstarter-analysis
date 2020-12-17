@@ -29,16 +29,17 @@ I encountered a challenge in GitHub adding my chart images to my README file and
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. May has the highest number of successfully launched theater Kickstarter campaigns, so it appears to be the best month to launch a fundraising campaign.
-2. December seems to be the worst month for launching a theater Kickstarter campaign, with virtually the same amount of failed and successful campaigns launched in that month.
+  May has the highest number of successfully launched theater Kickstarter campaigns, so it appears to be the best month to launch a fundraising campaign.
+  
+  December seems to be the worst month for launching a theater Kickstarter campaign, with virtually the same amount of failed and successful campaigns launched in that month.
 
 - What can you conclude about the Outcomes based on Goals?
 
-1. The data shows the success rate of a Kickstarter campaign in the plays subcategory is greatest when the fundraising goal is 15,000 or less. 
+  The data shows the success rate of a Kickstarter campaign in the plays subcategory is greatest when the fundraising goal is 15,000 or less. 
 
 - What are some limitations of this dataset?
 
-1. There isn't a large enough sample size within the play category where goals were 25,000 or more. The 'Outcomes based on Goals' line graph demonstrates this fact. It shows the proportion of successful and failed campaigns at this level go up and down inconsistently and are not a reliable measure.
+  There isn't a large enough sample size within the play category where goals were 25,000 or more. The 'Outcomes based on Goals' line graph demonstrates this fact. It shows the proportion of successful and failed campaigns at this level go up and down inconsistently and are not a reliable measure.
 
 - What are some other possible tables and/or graphs that we could create?
 
